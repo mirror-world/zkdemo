@@ -20,6 +20,7 @@ public class CglibProxyDemo {
             public Object intercept(Object o, Method method, Object[] objects, MethodProxy methodProxy) throws Throwable {
                 Object invoke = method.invoke(target, objects);
                 System.out.println("中介帮忙介绍房子");
+                System.out.println("压测");
                 return invoke;
             }
         });
