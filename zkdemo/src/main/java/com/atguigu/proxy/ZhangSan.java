@@ -7,6 +7,6 @@ package com.atguigu.proxy;
 public class ZhangSan implements Person {
 
     public void eat() {
-        System.out.println("张三来到上海");
+        System.out.println("适者生存");
     }
 }

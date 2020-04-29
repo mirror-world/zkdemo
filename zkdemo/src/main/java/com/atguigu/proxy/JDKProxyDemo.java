@@ -17,7 +17,7 @@ public class JDKProxyDemo {
         Person proxy = (Person)Proxy.newProxyInstance(z3.getClass().getClassLoader(), z3.getClass().getInterfaces(), new InvocationHandler() {
             public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
                 Object invoke = method.invoke(z3, args);
-                System.out.println("中介帮他找到了房子");
+                System.out.println("物竞天择");
                 return invoke;
             }
         });
