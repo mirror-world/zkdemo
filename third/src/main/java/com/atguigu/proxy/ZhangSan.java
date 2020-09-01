@@ -8,5 +8,6 @@ public class ZhangSan implements Person {
 
     public void eat() {
         System.out.println("适者生存");
-    }
+        }
+
 }

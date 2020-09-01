@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/canal/canal.iml" filepath="$PROJECT_DIR$/canal/canal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-admin-0.2.0/dubbo-admin.iml" filepath="$PROJECT_DIR$/dubbo-admin-0.2.0/dubbo-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-admin-0.2.0/dubbo-admin-distribution/dubbo-admin-distribution.iml" filepath="$PROJECT_DIR$/dubbo-admin-0.2.0/dubbo-admin-distribution/dubbo-admin-distribution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-admin-0.2.0/dubbo-admin-server/dubbo-admin-server.iml" filepath="$PROJECT_DIR$/dubbo-admin-0.2.0/dubbo-admin-server/dubbo-admin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-admin-0.2.0/dubbo-consumer/dubbo-consumer.iml" filepath="$PROJECT_DIR$/dubbo-admin-0.2.0/dubbo-consumer/dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-admin-0.2.0/dubbo-provider/dubbo-provider.iml" filepath="$PROJECT_DIR$/dubbo-admin-0.2.0/dubbo-provider/dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practise.iml" filepath="$PROJECT_DIR$/practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zkdemo/zkdemo.iml" filepath="$PROJECT_DIR$/zkdemo/zkdemo.iml" />
+    </modules>
+  </component>
+</project>

@@ -6,4 +6,5 @@ package com.atguigu.proxy;
  */
 public interface Person {
     public void eat();
+
 }
