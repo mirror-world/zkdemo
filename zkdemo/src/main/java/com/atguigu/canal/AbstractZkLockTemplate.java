@@ -10,6 +10,7 @@ import java.util.concurrent.CountDownLatch;
  * @create 2020-04-26 16:11
  */
 public abstract class AbstractZkLockTemplate implements ZkLock {
+    //第一次
     private final static String ZKSERVER="127.0.0.1:2181";
     private final static int TIME_OUT=60;
     public static String path="sale";
